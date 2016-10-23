@@ -1,0 +1,6 @@
+---
+google:
+  service_account:
+    json_key_path: 'key.json'
+  spread_sheet:
+    data_source_sheet_id: '======='
